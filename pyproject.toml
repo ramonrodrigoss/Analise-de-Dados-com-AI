@@ -8,6 +8,8 @@ authors = ["RamonRodrigo <<>>"]
 python = "^3.8"
 pandas = "^1.2.5"
 ipython = "^7.24.1"
+seaborn = "^0.11.1"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 
